@@ -3,12 +3,11 @@
 
 <h3>Sobre mim: </h3>
 
-- Atualmente sou estudante de desenvolvimento web, com foco principal em frontend;
+- Atualmente trabalhando como desenvolvedora jr auxiliando na migração de um sistema de ERP;
+  
+- Estudante de Engenharia de Software;
 
-- Participei da edição de 2022 do Hiring Coders #3, programa de formação de desenvolvedores full stack organizado pela VTEX, onde cheguei até a semi-final;
-
-- Aluna do Warren Tech Academy, programa de formação de desenvolvedores da  Warren;
-
+- Participei dos programas de formação de desenvolvedores Hiring Coders #3 e Warren Tech Academy;
 <br/>
 
 
@@ -16,7 +15,7 @@
 
 **Aplicações**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
 
 **Ferramentas**
 
@@ -26,7 +25,7 @@
 
 <h3>🌱 Tecnologias que estou estudando: </h3>
 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 
 <br/>
