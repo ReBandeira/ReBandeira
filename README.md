@@ -3,7 +3,7 @@
 
 <h3>Sobre mim: </h3>
 
-- Atualmente trabalhando como desenvolvedora jr auxiliando na migração de um sistema de ERP;
+- Atualmente trabalhando como desenvolvedora jr auxiliando na migração de um sistema de ERP utilizando JavaScript e React no frontend e C# e SQL Server no backend;
   
 - Estudante de Engenharia de Software;
 
@@ -13,13 +13,9 @@
 
 <h3> 🔭 Tecnologias e ferramentas que já utilizo: </h3>
 
-**Aplicações**
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)   ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp)   ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) 
 
 <br/>
 
